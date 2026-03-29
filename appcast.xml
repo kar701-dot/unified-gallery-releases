@@ -20,8 +20,8 @@
                 url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Windows_Portable.zip"
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
-                sparkle:dsaSignature="MD0CHQCbRKe2hZZd4GU5/Yx1CNGLYHxZNznYW3HRHXLTAhxMLvTmnpoYNhs//f7YM8BFfCcHi7NrpxOF5hv6"
-                length="698411659"
+                sparkle:dsaSignature="MDwCHDH4ETXtG1IFO0oiYbi2bvaWVTbtPrC4R7Icd+ICHFE1NPRLLjA+ovbKeWA1WEHTKB9DYC3LvLdhNtk="
+                length="349223698"
                 type="application/octet-stream" />
         </item>
     </channel>
