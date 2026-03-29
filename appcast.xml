@@ -17,11 +17,11 @@
                 ]]>
             </description>
             <enclosure 
-                url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Windows_Portable.zip"
+                url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Update.exe"
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
-                sparkle:dsaSignature="MDwCHDH4ETXtG1IFO0oiYbi2bvaWVTbtPrC4R7Icd+ICHFE1NPRLLjA+ovbKeWA1WEHTKB9DYC3LvLdhNtk="
-                length="349223698"
+                sparkle:dsaSignature=""MDwCHD0Pw23m0VKXO4oKjJVrvXDhPMA64uYAfh81KwECHA2Gwnf7oh6zPX7Ddd0qW6XShAznvDMIdeMAItA="
+                length="661498211"
                 type="application/octet-stream" />
         </item>
     </channel>
