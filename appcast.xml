@@ -20,8 +20,9 @@
                 url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Update.exe"
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
-                sparkle:dsaSignature="MDwCHD0Pw23m0VKXO4oKjJVrvXDhPMA64uYAfh81KwECHA2Gwnf7oh6zPX7Ddd0qW6XShAznvDMIdeMAItA="
-                length="661498211"
+                sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+                sparkle:dsaSignature="MD4CHQCMeN/8Elj53rImL3URf7sgWAEut0AB314dJfpmAh0AmZNFd4CuTgODhwkHuTBfTLRxg7MakfRIZp7ryQ=="
+                length="661494312 "
                 type="application/x-msdownload" />
         </item>
     </channel>
