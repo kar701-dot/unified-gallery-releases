@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Unified Gallery Updates</title>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0 - Professional Release</title>
+            <pubDate>Sun, 29 Mar 2026 16:00:00 +0530</pubDate>
+            <description>
+                <![CDATA[
+                <ul>
+                  <li>Fixed Local Folder indexing bug</li>
+                  <li>Implemented Pro-Tier Cloud features</li>
+                  <li>Added portable JDK support</li>
+                  <li>Smoother full-screen keyboard navigation</li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure 
+                url="REPLACE_WITH_YOUR_GITHUB_DOWNLOAD_URL"
+                sparkle:version="1.1.0"
+                sparkle:os="windows"
+                sparkle:edSignature="REPLACE_WITH_YOUR_GENERATED_SIGNATURE"
+                length="REPLACE_WITH_FILE_SIZE_IN_BYTES"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
