@@ -5,23 +5,23 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0 - Professional Release</title>
-            <pubDate>Sun, 29 Mar 2026 16:00:00 +0530</pubDate>
+            <pubDate>Sun, 29 Mar 2026 16:45:00 +0530</pubDate>
             <description>
                 <![CDATA[
                 <ul>
                   <li>Fixed Local Folder indexing bug</li>
                   <li>Implemented Pro-Tier Cloud features</li>
                   <li>Added portable JDK support</li>
-                  <li>Smoother full-screen keyboard navigation</li>
+                  <li>Seamless One-Click Updates enabled</li>
                 </ul>
                 ]]>
             </description>
             <enclosure 
-                url="REPLACE_WITH_YOUR_GITHUB_DOWNLOAD_URL"
+                url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Windows_Portable.zip"
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
-                sparkle:edSignature="REPLACE_WITH_YOUR_GENERATED_SIGNATURE"
-                length="REPLACE_WITH_FILE_SIZE_IN_BYTES"
+                sparkle:dsaSignature="MD0CHC9ea7RC0sNzyTdTpK7b5f2GkEnrJtmUfEy8ts0CHQCo5AXi0WcNPmFIDqeBxOB/3GloBHgdWrOzMjH2"
+                length="349160216"
                 type="application/octet-stream" />
         </item>
     </channel>
