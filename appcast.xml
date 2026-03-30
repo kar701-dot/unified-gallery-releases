@@ -18,7 +18,7 @@
             </description>
             <enclosure 
                 url="https://github.com/kar701-dot/unified-gallery-releases/releases/download/v1.1.0/Unified_Gallery_v1.1_Update.exe"
-                sparkle:version="1.1.0"
+                sparkle:version="1.1.0+1"
                 sparkle:os="windows"
                 sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
                 sparkle:dsaSignature="MD4CHQCMeN/8Elj53rImL3URf7sgWAEut0AB314dJfpmAh0AmZNFd4CuTgODhwkHuTBfTLRxg7MakfRIZp7ryQ=="
